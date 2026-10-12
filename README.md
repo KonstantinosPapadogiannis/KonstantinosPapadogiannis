@@ -81,6 +81,8 @@ I'm currently building my portfolio around:
 
 ## 📫 Contact
 
+- **Portfolio:** [kpapadogiannis.dev](https://kpapadogiannis.dev)
+- **LinkedIn:** [Konstantinos Papadogiannis](https://www.linkedin.com/in/konstantinos-papadogiannis/)
+- **ORCID:** [0009-0008-9445-2484](https://orcid.org/0009-0008-9445-2484)
 - **Email:** [konstantinospapadogiannis.dev@gmail.com](mailto:konstantinospapadogiannis.dev@gmail.com)
-- **GitHub:** [KonstantinosPapadogiannis](https://github.com/KonstantinosPapadogiannis)
 - **Location:** Athens, Greece
